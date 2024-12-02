@@ -43,7 +43,7 @@ Usage
 To use this module, you need to:
 
 -  Edit any page in your website.
--  Go to **Blocks > Features**.
+-  Go to **Blocks > Structure**.
 -  Drag the **Marginless Gallery** snippet anywhere in your page.
 
 To change images, you need to:
