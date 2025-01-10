@@ -29,6 +29,7 @@ addon | version | maintainers | summary
 [website_odoo_debranding](website_odoo_debranding/) | 17.0.1.0.0 |  | Remove Odoo Branding from Website
 [website_require_login](website_require_login/) | 17.0.1.0.0 |  | Website Login Required
 [website_snippet_big_button](website_snippet_big_button/) | 17.0.1.0.0 |  | A snippet that adds two big buttons
+[website_snippet_marginless_gallery](website_snippet_marginless_gallery/) | 17.0.1.0.0 |  | Add a snippet to have a marginless image gallery
 
 [//]: # (end addons)
 
